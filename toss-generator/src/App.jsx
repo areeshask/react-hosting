@@ -31,3 +31,14 @@ export default function TossApp() {
     </div>
   );
 }
+
+//learning json and API ::::
+// import React, { useEffect , useState} from 'react';
+
+// function setUser(){
+//  const [user,userData] = useState(null);
+// useEffect(function(){
+// fetch("https://jsonplaceholder.typicode.com/users/1")
+// },[])
+// return()
+// }
